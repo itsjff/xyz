@@ -7,5 +7,7 @@ template <class T>
   return a + B;
 }
 int main(){
-  
+  int a;
+  int b;
+  int c = add(a,b);
 }
